@@ -8,6 +8,17 @@ Official code implement of paper **Rethinking Model Ensemble in Transfer-based A
 
 
 ## Usage
-our code is implemented based on the framework of https://github.com/VDIGPKU/T-SEA. This framework allows us to define new attacker. Therefore we only open source our Adam-CSE attacker.                     
+Our code is implemented based on the framework of https://github.com/VDIGPKU/T-SEA. This framework allows us to define new attacker. Therefore we only open source our Adam-CSE attacker.                     
 For usage, please refer to https://github.com/VDIGPKU/T-SEA.
 
+
+
+## Citation
+```
+@article{chen2023rethinking,
+  title={Rethinking Model Ensemble in Transfer-based Adversarial Attacks},
+  author={Chen, Huanran and Zhang, Yichi and Dong, Yinpeng and Zhu, Jun},
+  journal={arXiv preprint arXiv:2303.09105},
+  year={2023}
+}
+```
