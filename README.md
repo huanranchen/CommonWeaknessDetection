@@ -1,5 +1,6 @@
 # CommonWeaknessDetection
-Official code implement of paper **Rethinking Model Ensemble in Transfer-based Adversarial Attacks**
+Official code implement of object detection part in paper **Rethinking Model Ensemble in Transfer-based Adversarial Attacks**        
+For classification part, please visit https://github.com/huanranchen/AdversarialAttacks.     
 
 [**Paper**](https://arxiv.org/abs/2303.09105)
 | Huanran Chen, Yichi Zhang, Yinpeng Dong, Jun Zhu
